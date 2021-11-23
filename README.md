@@ -1,2 +1,0 @@
-# Encriptacion
-encriptación con jwt
