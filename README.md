@@ -1,2 +1,2 @@
 # Encriptacion
-encriptación con jwt
+encriptación con jwt, aes y rsa
